@@ -1,0 +1,23 @@
+[
+  {
+      "nombre"  : "Ramón Chancay",
+      "twitter" : "@r_chancay",
+      "titulo"  : "Clase #4 (Final) NodeJs",
+      "hora"    : "11am - 1pm",
+      "avatar"  : "https://pbs.twimg.com/profile_images/605493812060749825/q2wRBwtL_400x400.png"
+   },
+   {
+       "nombre"  : "Steven Mera",
+       "twitter" : "@SteckMera",
+       "titulo"  : "SQL Injection",
+       "hora"    : "2pm - 3pm",
+       "avatar"  : "https://pbs.twimg.com/profile_images/504687854425866240/vAAHnx_m.jpeg"
+    },
+    {
+        "nombre"  : "Isaac Alava",
+        "twitter" : "@isaac_alava",
+        "titulo"  : "Metodologías agiles",
+        "hora"    : "3pm - 4pm",
+        "avatar"  : "https://pbs.twimg.com/profile_images/3508049287/110e576f315dca1a4b56a929fd3d91c0.jpeg"
+     }
+]
