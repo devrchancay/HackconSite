@@ -1,0 +1,20 @@
+{
+  "name": "hackcon",
+  "version": "1.0.0",
+  "description": "Pagina web del hackcon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs",
+    "bower",
+    "materialize"
+  ],
+  "author": "Ramón Chancay <ramon.chancay@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-react": "^3.0.1"
+  }
+}

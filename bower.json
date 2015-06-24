@@ -1,0 +1,20 @@
+{
+  "name": "hackcon",
+  "version": "0.0.1",
+  "authors": [
+    "Ramon Chancay <ramon.chancay@gmail.com>"
+  ],
+  "description": "Página web del evento Hackcon",
+  "main": "index.html",
+  "keywords": [
+    "reactjs",
+    "php",
+    "gulp"
+  ],
+  "license": "MIT",
+  "homepage": "http://area51.ec/hackcon",
+  "dependencies": {
+    "materialize": "~0.97.0",
+    "react": "~0.13.3"
+  }
+}
